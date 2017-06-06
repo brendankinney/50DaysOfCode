@@ -1,6 +1,6 @@
 # 50 Days Of Code - Log
 
-### Day3: June 5, 2017
+### Day 3: June 5, 2017
 
 **Today's Progress:** I completed 17 challenges, primarily on how to use jQuery (my first JavaScript library!). I used it to animage elements of the page, change the color of elements, clone, append, and more. I ended after a short introduction to CodePen, an online editor and testing environment that helps you create code snippets that can be shared. The net phase of the work will involve building a ["tribute page" like this one](https://codepen.io/freeCodeCamp/full/NNvBQW) using CodePen.
 
