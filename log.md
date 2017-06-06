@@ -1,5 +1,13 @@
 # 50 Days Of Code - Log
 
+### Day 4: June 6, 2017
+
+**Today's Progress:** I spent an hour today to launch my front-end project of a tribute page using CodePen. You can see my progress [here:](https://codepen.io/bkinney/full/YQXpaX/). I cheated somewhat by copying the initial code from the example, just as a way of getting started. Once I understand how the various div classes impact the design, I will play some more. I chose MLK Jr. as my tribute subject and use the info from his Wikipedia entry. I like the fact that CodePen helps you separate the various coding aspects: HTML, CSS, JS...definitely a help for a beginner!
+
+**Thoughts:** Again, having some kind of intro tutorial would be helpful for me as a learner. I can see this is one project where I'll need to rely on outside help or tips. For example, even though I copied the initial code from the example, my contents were not showing up neatly centered and despite NO differences in the code, it appears aligned-left. I might try to use basic HTML (foregoing the use of div) to see if I can make it work.
+
+**Link to work:** [This is where I left off.](https://codepen.io/bkinney/full/YQXpaX/)
+
 ### Day 3: June 5, 2017
 
 **Today's Progress:** I completed 17 challenges, primarily on how to use jQuery (my first JavaScript library!). I used it to animage elements of the page, change the color of elements, clone, append, and more. I ended after a short introduction to CodePen, an online editor and testing environment that helps you create code snippets that can be shared. The net phase of the work will involve building a ["tribute page" like this one](https://codepen.io/freeCodeCamp/full/NNvBQW) using CodePen.
