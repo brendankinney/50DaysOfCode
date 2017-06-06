@@ -1,5 +1,13 @@
 # 50 Days Of Code - Log
 
+### Day3: June 5, 2017
+
+**Today's Progress:** I completed 17 challenges, primarily on how to use jQuery (my first JavaScript library!). I used it to animage elements of the page, change the color of elements, clone, append, and more. I ended after a short introduction to CodePen, an online editor and testing environment that helps you create code snippets that can be shared. The net phase of the work will involve building a ["tribute page" like this one](https://codepen.io/freeCodeCamp/full/NNvBQW) using CodePen.
+
+**Thoughts:** Definitely a bit of a struggle today as my son had a little league baseball game and we didn't get home until 8:30 p.m. Once I got to the computer, the hour went by pretty quickly. One thing I wish FreeCodeCamp offered was a short "What is jQuery" intro for whatever big concept is offered (Bootstrap, CSS, HTML, jQuery, etc.). There is something to be said for jumping right into the coding, but I like to have my bearings first. Instead, I found myself on the fifth jQuery challenge asking..."What is jQuery and why shoould I care?"). A brief primer would help with context. I find myself using Wikipedia to get a quick definition and description.
+
+**Link to work:** [This is where I left off.](https://www.freecodecamp.com/challenges/build-a-tribute-page)
+
 ### Day 2: June 4, 2017
 
 **Today's Progress:** I completed 27 challenges in FreeCodeCamp, primarily focused on Bootstrap div elements and styling and buttons and just started to get into jQuery. My Cat Photo App is coming along nicely :-)
