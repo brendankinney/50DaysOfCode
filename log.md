@@ -6,7 +6,7 @@
 
 **Thoughts:** Again, having some kind of intro tutorial would be helpful for me as a learner. I can see this is one project where I'll need to rely on outside help or tips. For example, even though I copied the initial code from the example, my contents were not showing up neatly centered and despite NO differences in the code, it appears aligned-left. I might try to use basic HTML (foregoing the use of div) to see if I can make it work.
 
-**Link to work:** [This is where I left off.](https://codepen.io/bkinney/full/YQXpaX/)
+**Link to work:** [This is where I left off.](https://www.freecodecamp.com/challenges/build-a-tribute-page/)
 
 ### Day 3: June 5, 2017
 
