@@ -2,7 +2,7 @@
 
 ### Day 4: June 6, 2017
 
-**Today's Progress:** I spent an hour today to launch my front-end project of a tribute page using CodePen. You can see my progress [here:](https://codepen.io/bkinney/full/YQXpaX/). I cheated somewhat by copying the initial code from the example, just as a way of getting started. Once I understand how the various div classes impact the design, I will play some more. I chose MLK Jr. as my tribute subject and use the info from his Wikipedia entry. I like the fact that CodePen helps you separate the various coding aspects: HTML, CSS, JS...definitely a help for a beginner!
+**Today's Progress:** I spent an hour today to launch my front-end project of a tribute page using CodePen. You can see my progress [here](https://codepen.io/bkinney/full/YQXpaX/). I cheated somewhat by copying the initial code from the example, just as a way of getting started. Once I understand how the various div classes impact the design, I will play some more. I chose MLK Jr. as my tribute subject and use the info from his Wikipedia entry. I like the fact that CodePen helps you separate the various coding aspects: HTML, CSS, JS...definitely a help for a beginner!
 
 **Thoughts:** Again, having some kind of intro tutorial would be helpful for me as a learner. I can see this is one project where I'll need to rely on outside help or tips. For example, even though I copied the initial code from the example, my contents were not showing up neatly centered and despite NO differences in the code, it appears aligned-left. I might try to use basic HTML (foregoing the use of div) to see if I can make it work.
 
@@ -20,7 +20,7 @@
 
 **Today's Progress:** I completed 27 challenges in FreeCodeCamp, primarily focused on Bootstrap div elements and styling and buttons and just started to get into jQuery. My Cat Photo App is coming along nicely :-)
 
-**Thoughts:** It's amazing how every quote and dash really matters. In addition to coding, I spent time working on my side web project, making modifications to the Wordpress site, playing with the embed functions of Issuu and I installed a Dokuwiki to test whether or not we should use it for the articles. To see progress, go to http://theadvocatevt.com.
+**Thoughts:** It's amazing how every quote and dash really matters. In addition to coding, I spent time working on my side web project, making modifications to the Wordpress site, playing with the embed functions of Issuu vs. Scribd. I also installed a Dokuwiki and MediaWiki to test whether or not we should use it for the articles.
 
 **Link to work:** [This is where I left off.](https://www.freecodecamp.com/challenges/join-a-free-code-camp-group-in-your-city)
 
