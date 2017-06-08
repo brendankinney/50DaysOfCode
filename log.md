@@ -1,5 +1,13 @@
 # 50 Days Of Code - Log
 
+### Day 5: June 7, 2017
+
+**Today's Progress:** Definitely not feeling it today! I woke up early for a run, had a full day of work, and then a little league playoff game where I had to step in for the coach who was out of town on business. Excuses, excuses, right? Anyway, I worked on my triute page and mainly fiddled with various HTML and CSS elements to see how the page design changed. I went old school with HTML skills from the 1990s and left Bootstrap mostly behind. I'd like to revisit the code and see if I can use more Bootstrap elements before I finish the challenge.
+
+**Thoughts:** I did not honor the challenge by coming up with code from scratch, which makes me feel unworthy! I am still feeling too new to come up with code on my own and so borrowed some code from the example and elsewhere by looking up code questions. The onle thing I am proud of is figuring out how to use CSS to align the bullet list on the page.
+
+**Link to work:** [Here is my first draft of the project page.](https://codepen.io/bkinney/full/YQXpaX/)
+
 ### Day 4: June 6, 2017
 
 **Today's Progress:** I spent an hour today to launch my front-end project of a tribute page using CodePen. You can see my progress [here](https://codepen.io/bkinney/full/YQXpaX/). I cheated somewhat by copying the initial code from the example, just as a way of getting started. Once I understand how the various div classes impact the design, I will play some more. I chose MLK Jr. as my tribute subject and use the info from his Wikipedia entry. I like the fact that CodePen helps you separate the various coding aspects: HTML, CSS, JS...definitely a help for a beginner!
