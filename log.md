@@ -1,5 +1,13 @@
 # 50 Days Of Code - Log
 
+### Day 6: June 8, 2017
+
+**Today's Progress:** After finishing up my tribute project, next up is the creation of a personal portoflio page similar to [this one](https://codepen.io/FreeCodeCamp/full/YqLyXB/). I am experimenting more with Bootstrap elements and did not copy the code from the example, However, I've been finding helpful Bootstrap tips online and copying the sample code and modifying it for my purposes. (Is this cheating?). It definitely was slow going, but I was able to build basic Bootstrap buttons that link to my social media accounts and a panel of portfolio examples. I cannot figure out how to make an image fit into a column so they appear uniform! I'll research and tackle this tomorrow.
+
+**Thoughts:** I feel like I'm getting into somewhat of a routine. I have to say that it's a challenge to sit down after a long day and commit to an hour of coding. I must persevere! I'm almost a full week in...
+
+**Link to work:** [Here is my rough draft of my portfolio page, in progress. (https://codepen.io/bkinney/pen/bREExJ/)
+
 ### Day 5: June 7, 2017
 
 **Today's Progress:** Definitely not feeling it today! I woke up early for a run, had a full day of work, and then a little league playoff game where I had to step in for the coach who was out of town on business. Excuses, excuses, right? Anyway, I worked on my triute page and mainly fiddled with various HTML and CSS elements to see how the page design changed. I went old school with HTML skills from the 1990s and left Bootstrap mostly behind. I'd like to revisit the code and see if I can use more Bootstrap elements before I finish the challenge.
