@@ -6,7 +6,7 @@
 
 **Thoughts:** I feel like I'm getting into somewhat of a routine. I have to say that it's a challenge to sit down after a long day and commit to an hour of coding. I must persevere! I'm almost a full week in...
 
-**Link to work:** [Here is my rough draft of my portfolio page, in progress. (https://codepen.io/bkinney/pen/bREExJ/)
+**Link to work:** [Here is my rough draft of my portfolio page, in progress.](https://codepen.io/bkinney/pen/bREExJ/) Here is [a link](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) to the FreeCodeCamp challenge details.
 
 ### Day 5: June 7, 2017
 
