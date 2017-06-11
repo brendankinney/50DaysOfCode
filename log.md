@@ -1,5 +1,13 @@
 # 50 Days Of Code - Log
 
+### Day 8: June 11, 2017 ###
+
+**Today's Progres:** More work on my personal profile page. Experimented with more Bootstrap elements but am having difficulty figuring out how to make the top nav bar render horizontally, versus stacked! Very frustrating, because in another test program it worked. Not sure if it's me or an issue with CodePen. I also refreshed my memory on anchors and bookmarks within a page and how to insert horizontal lines. I was having difficulty with a bottom line for a section when it finally hit me to use a closing div tag. That was a bit of an "aha" moment that each div contains elements and the missing closing tag was the problem.
+
+**Thoughts:** I was really frustrated today with the nav bar. I tried all kinds of variations to make it render properly, but no dice. If it would work as it's supposed to, I'd be close to finishing this challenge! I should also go back and play with image sizing; to eliminate the issues I was having, I am using the same image for each thumbnail so they appear uniform...but I should learn if there is a way to make the images in a "gallery" size the same.
+
+**Link to the work:** [Here's the latest progress on my personal portfolio page!](https://codepen.io/bkinney/full/bREExJ/)
+
 ### Day 7: June 10, 2017
 
 **Special Announcement:** You may notice that there is no entry for June 9. Friday night was super busy for our family and we had a house full of unexpected guests. Despite the skip, I'm keeping the number of days in order, so today is Day 7 of working on code. I am not surprised that I skipped a day given life, work, family, and other commitments. I won't lose any sleep over it if you won't!
