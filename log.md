@@ -1,5 +1,15 @@
 # 50 Days Of Code - Log
 
+### Day 7: June 10, 2017
+
+**Special Announcement:** You may notice that there is no entry for June 9. Friday night was super busy for our family and we had a house full of unexpected guests. Despite the skip, I'm keeping the number of days in order, so today is Day 7 of working on code. I am not surprised that I skipped a day given life, work, family, and other commitments. I won't lose any sleep over it if you won't!
+
+**Today's Progress:** I'm also not being a purist when it comes to this challenge. According to the rules, watching tutorials, videos, adn the like aren't actually coding, so don't count. As you may have rad in the previous entries, I felt like I was missing "overviews" about the general topic areas. And since I'm working on my portfolio page in CodePen which encourages Bootstrap, I found a VERY helpful series of videos and have watched five of them today and played around with my Bootstrap code of the porfolio as a result. There are other videos about HTML, CSS, Javascript and more, so I will be integrating these into the coding challengs of FreeCodeCamp.
+
+**Thoughts:** I've shared many thoughts already, but I have to say that being a runner is helping me continue on this journey. After missing a day, some people might throw up their hands and feel the need to start over or give up altogether. Not me. Many miles and many races has taught me that it's okay to have small setbacks. Learning is not necessarily a linear path. I appreciate the basic premise of the challenge and will do my best not to miss any/many more days, but if being rigid about the rules of the challenge stops me in my tracks from learning code, then what good is it?
+
+**Link to work:** Here's [a link to the video series I'm using](https://www.youtube.com/watch?v=P3e24Of44ac&list=PL0eyrZgxdwhx2XiwAfPLTTnEPcUGrPGH-) to help me better understand Bootstrap. In other news, I put a [call out on Twitter](https://mobile.twitter.com/brendankinney/status/873272496849645569) about working to establish Code Clubs for each school district in Vermont and it's generating some discussion. I'm going to pursue this idea and see if we can get something going!
+
 ### Day 6: June 8, 2017
 
 **Today's Progress:** After finishing up my tribute project, next up is the creation of a personal portoflio page similar to [this one](https://codepen.io/FreeCodeCamp/full/YqLyXB/). I am experimenting more with Bootstrap elements and did not copy the code from the example, However, I've been finding helpful Bootstrap tips online and copying the sample code and modifying it for my purposes. (Is this cheating?). It definitely was slow going, but I was able to build basic Bootstrap buttons that link to my social media accounts and a panel of portfolio examples. I cannot figure out how to make an image fit into a column so they appear uniform! I'll research and tackle this tomorrow.
