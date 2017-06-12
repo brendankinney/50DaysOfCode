@@ -1,5 +1,13 @@
 # 50 Days Of Code - Log
 
+### Day 9: June 12, 2017 ###
+
+**Today's Progress:** Incremental progress! Finally fixed my navbar issue by asking for help in the FreeCodeCamp Gitter. Turns out I had Bootstrap 4 turned on under the CSS settings in CodePen which was causing a problem. I was advised by someone on Gitter that Bootstrap 4 navbar is "broken" so I should stick with verion 3. So noted.
+
+**Thoughts:** What I have found is that issues can be small, tiny, and seemingly hidden from view! I had hit massive frustration with the navbar issue and was ready to move on. I had followed the "read" advice but not "ask." So it was great to reach out ot the crowd for help. The General Gitter for FCC is so busy that next time I'll try one of the subject-area rooms. It was hard to ask and then get an answer...felt like trying to shout in a bar.
+
+**Link to the work:** [Here's the latest progress with a proper navbar in good working order!](https://codepen.io/bkinney/full/bREExJ/)
+
 ### Day 8: June 11, 2017 ###
 
 **Today's Progres:** More work on my personal profile page. Experimented with more Bootstrap elements but am having difficulty figuring out how to make the top nav bar render horizontally, versus stacked! Very frustrating, because in another test program it worked. Not sure if it's me or an issue with CodePen. I also refreshed my memory on anchors and bookmarks within a page and how to insert horizontal lines. I was having difficulty with a bottom line for a section when it finally hit me to use a closing div tag. That was a bit of an "aha" moment that each div contains elements and the missing closing tag was the problem.
