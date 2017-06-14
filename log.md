@@ -6,7 +6,7 @@
 
 **Thoughts:** It felt good to get back into the challenges; bite-sized accomplishments versus the vast emptiness of creating a whole web page. The trial-and-error approach with Bootstrap could have been avoided if I had a better grasp of over-arching concepts. And again, while it's good to "jump right in" on Javascript, I could definitely benefit from an overview and general "here's what it is and why" introduction. I'll have to doing some YouTube searches next!
 
-**Link to the work:* [Here's where I left off...](https://www.freecodecamp.com/challenges/finding-a-remainder-in-javascript)
+**Link to the work:** [Here's where I left off...](https://www.freecodecamp.com/challenges/finding-a-remainder-in-javascript)
 
 ### Day 9: June 12, 2017 ###
 
