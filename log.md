@@ -1,5 +1,13 @@
 # 50 Days Of Code - Log
 
+### Day 10: June 13, 2017 ###
+
+**Today's Progress:** Messed around some more with my portfolio page, mostly on how to get images of different sizes to render side-by-side and at the same size. Larger images seemed to fit the spaces fine using the thumbnail element but others didn't seem to fill the space in the same way. Definitely more to learn about Bootstrap and images. AND today I started challengs in FCC on Javascript! Yikes. I did 15 challenges in all, mostly learning how to comment, set variables and strings, and do simple math problems.
+
+**Thoughts:** It felt good to get back into the challenges; bite-sized accomplishments versus the vast emptiness of creating a whole web page. The trial-and-error approach with Bootstrap could have been avoided if I had a better grasp of over-arching concepts. And again, while it's good to "jump right in" on Javascript, I could definitely benefit from an overview and general "here's what it is and why" introduction. I'll have to doing some YouTube searches next!
+
+**Link to the work:* [Here's where I left off...](https://www.freecodecamp.com/challenges/finding-a-remainder-in-javascript)
+
 ### Day 9: June 12, 2017 ###
 
 **Today's Progress:** Incremental progress! Finally fixed my navbar issue by asking for help in the FreeCodeCamp Gitter. Turns out I had Bootstrap 4 turned on under the CSS settings in CodePen which was causing a problem. I was advised by someone on Gitter that Bootstrap 4 navbar is "broken" so I should stick with verion 3. So noted.
