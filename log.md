@@ -1,5 +1,13 @@
 # 50 Days Of Code - Log
 
+### Days 11-15: June 14-18, 2017 ###
+
+**Progress:** I continued to work on Javascript during this timeframe as well as building out a website that I'm working on. Although the site is being built on a Wordpress platform, I count this as coding days because I wouldn't be working on it if it weren't for this challenge! I have been using an app called [Py](https://www.downloadpy.com/) that lets you do short challenges on your phone. Each one takes just a few minutes but it's helped to keep coding top of mind. I also completed nine new challenges in Free Code Camp, including using Javascript to convert Celsius to Fahrenheit. 
+
+**Thoughts:** During this stretch I definitely have not been doing as much coding, but I have been working hard on building a website. Javascript is definitely harder to understand for me; mostly because I have yet to figure out how and why to use it in coding? I'm currently hung up on "escape sequences in strings," which is about as challenging as it sounds. When I get hung up, I spend some time on the website. I also woke up the next day with an idea on how to fix the celsius to farhrenheit challenge...and it worked!
+
+**Link to the work:** Here's where [I left off in FCC](https://www.freecodecamp.com/challenges/escape-sequences-in-strings). Here's a [sneak peek](http://www.theadvocatevt.com) at the website I'm building.
+
 ### Day 10: June 13, 2017 ###
 
 **Today's Progress:** Messed around some more with my portfolio page, mostly on how to get images of different sizes to render side-by-side and at the same size. Larger images seemed to fit the spaces fine using the thumbnail element but others didn't seem to fill the space in the same way. Definitely more to learn about Bootstrap and images. AND today I started challengs in FCC on Javascript! Yikes. I did 15 challenges in all, mostly learning how to comment, set variables and strings, and do simple math problems.
