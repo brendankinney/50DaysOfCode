@@ -1,5 +1,13 @@
 # 50 Days Of Code - Log
 
+### Day 16: June 19, 2017 ###
+
+**Progress:** I completed 10 FCC challenges tonight. I also re-did five challenges to refresh my memory on some Javascript concepts.
+
+**Thoughts:** Javascript feels a lot like math. I am dutifully plugging away at the challenges but have no idea how any of it applies to web development. I need to find a way to connect the dots!
+
+**Link to the work:** [Here is where I left off...](https://www.freecodecamp.com/challenges/use-bracket-notation-to-find-the-nthtolast-character-in-a-string).
+
 ### Days 11-15: June 14-18, 2017 ###
 
 **Progress:** I continued to work on Javascript during this timeframe as well as building out a website that I'm working on. Although the site is being built on a Wordpress platform, I count this as coding days because I wouldn't be working on it if it weren't for this challenge! I have been using an app called [Py](https://www.downloadpy.com/) that lets you do short challenges on your phone. Each one takes just a few minutes but it's helped to keep coding top of mind. I also completed nine new challenges in Free Code Camp, including using Javascript to convert Celsius to Fahrenheit. 
